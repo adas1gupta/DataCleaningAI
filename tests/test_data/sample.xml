@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <person>
+    <Name>John Doe</Name>
+    <Age>30</Age>
+    <City>New York</City>
+    <Salary>75000</Salary>
+  </person>
+  <person>
+    <Name>Jane Smith</Name>
+    <Age>28</Age>
+    <City>San Francisco</City>
+    <Salary>82000</Salary>
+  </person>
+  <person>
+    <Name>Mike Johnson</Name>
+    <Age>35</Age>
+    <City>Chicago</City>
+    <Salary>68000</Salary>
+  </person>
+</root>

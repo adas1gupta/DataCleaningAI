@@ -1,0 +1,20 @@
+[
+    {
+      "Name": "John Doe",
+      "Age": 30,
+      "City": "New York",
+      "Salary": 75000
+    },
+    {
+      "Name": "Jane Smith",
+      "Age": 28,
+      "City": "San Francisco",
+      "Salary": 82000
+    },
+    {
+      "Name": "Mike Johnson",
+      "Age": 35,
+      "City": "Chicago",
+      "Salary": 68000
+    }
+  ]

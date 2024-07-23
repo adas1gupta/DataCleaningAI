@@ -1,0 +1,9 @@
+#Provides displayable dataframes, has built in methods to handle missing values, can merge datasets depending on keys, and can read from various file formats.
+#handles large datasets efficiently. 
+pandas
+
+#this processes XML and HTML in python. 
+lxml
+
+#excel files 
+openpyxl
